@@ -1,6 +1,7 @@
-//AddSub.v, 205 Verilog Programming Assignment #2
+//AddSub.v, 205 Verilog Programming Assignment 
 //add/subtract, 5 bits
 //Ramandeep Chumber
+
 module tester;
    parameter plus_sign = 43; // '+' has ASCII 43
    parameter minus_sign = 45; // '-' has ASCII 43

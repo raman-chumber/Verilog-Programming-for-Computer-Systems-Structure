@@ -1,4 +1,5 @@
 //Majority Program by Ramandeep Chumber
+
 module MajorityMod(A, B, C, F);
    input A, B, C;
    output F;

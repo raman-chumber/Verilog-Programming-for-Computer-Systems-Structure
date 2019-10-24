@@ -1,4 +1,5 @@
 //4x1 Multiplexer by Ramandeep Chumber
+
  module MuxMod(s1, s0, d0, d1, d2, d3, o);
 input s1, s0, d0, d1, d2, d3;
    output o;

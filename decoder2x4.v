@@ -1,4 +1,5 @@
 //2x4 Decoder by Ramandeep Chumber
+
 module Decoder(s1, s0, o0, o1, o2, o3);
 input s1, s0;
 output o0, o1, o2, o3;
