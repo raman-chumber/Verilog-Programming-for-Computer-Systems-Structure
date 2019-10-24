@@ -1,6 +1,7 @@
 // name.v
 // // shift registers and encode, to count (ripple counter)
 // Ramandeep Chumber
+
 module TestMod;
    reg clk;
    wire [0:17] Q;
